@@ -40,7 +40,7 @@ You can help improve the quality of the website by contributing:
 
 ```bash
 # Clone the repository
-git clone https://github.com/
+git clone https://github.com/chineseinvade/chineseinvade.git
 cd chineseinvade
 
 # Install dependencies
